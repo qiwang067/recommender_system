@@ -18,10 +18,10 @@
 5. 对于稀疏数据集，基于物品的过滤算法要优于基于用户过滤的算法，对于密集数据集，两者效果几乎相同。
 
 ## 运行程序
-### 基于用户协同过滤（推荐给用户G的商品）
+### 基于用户的协同过滤（推荐给用户G的商品）
 ![图片1](https://github.com/qiwang067/MarkdownPhotos/blob/master/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F1.png)
 
-### 基于物品的协作型过滤（推荐给用户G的商品）
+### 基于物品的协同过滤（推荐给用户G的商品）
 ![图片2](https://github.com/qiwang067/MarkdownPhotos/blob/master/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F2.png)
 
 说明：itemsim是商品相似度的数据集
