@@ -30,6 +30,6 @@
 ```python
 >>>getRecsByItems(users,'G')
 ```
-['lamp', 'soap', 'football']
+['lamp', 'football', 'soap']
 
 
